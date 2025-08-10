@@ -7,7 +7,7 @@
 
 int main() {
 printf("Desafio Cartas Super Trunfo\n");
-printf("Carta1\n:");
+printf("Carta1:\n");
 
 char Estado = 'b';
 char codigo [20] = "b01";
@@ -20,6 +20,9 @@ int numerodepontosturisticos = 100;
 printf("Digite o Estado:"); 
 scanf("%c", &Estado);
 printf("O Estado é: %c\n", Estado);
+
+printf("Digite o Codigo:");
+scanf("%s", codigo);
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
