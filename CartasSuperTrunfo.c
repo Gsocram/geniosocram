@@ -14,6 +14,7 @@ char codigo [20] = "b01";
 char nomedacidade [20] = "Salvador";
 int populacao = 2568900;
 float area = 150.75;
+float pib = 6290000000.0f;
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
