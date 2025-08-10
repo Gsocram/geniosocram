@@ -9,8 +9,8 @@ int main() {
 printf("Desafio Cartas Super Trunfo\n");
 printf("Carta1\n:");
 
-char Estado [20] = "Bahia";
-
+char Estado = 'b';
+char codigo [20] = "b01";
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
