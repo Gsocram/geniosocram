@@ -31,7 +31,7 @@ printf("O Nome da Cidade é: %s\n", nomedacidade);
 
 printf("Digite o numerode de População:");
 scanf("%d", &populacao);
-printf("A População é: %d/n", populacao);
+printf("A População é: %d\n", populacao);
 
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
