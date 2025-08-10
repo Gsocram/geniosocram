@@ -27,6 +27,7 @@ printf("O Codigo é: %s\n", codigo);
 
 printf("Digite o Nome da Cidade:");
 scanf("%s", nomedacidade);
+printf("O Nome da Cidade é: %s\n", nomedacidade);
 
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
