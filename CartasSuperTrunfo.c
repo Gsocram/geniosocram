@@ -29,6 +29,9 @@ printf("Digite o Nome da Cidade:");
 scanf("%s", nomedacidade);
 printf("O Nome da Cidade é: %s\n", nomedacidade);
 
+printf("Digite o numerode de População:");
+
+
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
