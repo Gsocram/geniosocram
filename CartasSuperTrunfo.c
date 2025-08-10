@@ -11,7 +11,8 @@ printf("Carta1\n:");
 
 char Estado = 'b';
 char codigo [20] = "b01";
-
+char nomedacidade [20] = "Salvador";
+int populacao = 2568900;
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
