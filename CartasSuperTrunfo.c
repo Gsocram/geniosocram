@@ -17,7 +17,10 @@ float area = 150.75;
 float pib = 6290000000.0f;
 int numerodepontosturisticos = 100;
 
-printf("Digite o Estado: %c\n", Estado);
+printf("Digite o Estado:"); 
+scanf("%c", &Estado);
+printf("O Estado é: %c\n", Estado);
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
