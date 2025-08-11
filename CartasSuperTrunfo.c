@@ -29,7 +29,7 @@ printf("Digite o Nome da Cidade:");
 scanf("%s", nomedacidade);
 printf("O Nome da Cidade é: %s\n", nomedacidade);
 
-printf("Digite o numerode de População:");
+printf("Digite o numero de População:");
 scanf("%d", &populacao);
 printf("A População é: %d\n", populacao);
 
@@ -39,6 +39,7 @@ printf("A Área é: %.2f km²\n", area);
 
 printf("Digite o PIB:");
 scanf("%f", &pib);
+printf("O PIB é: %f\n", pib);
 
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
