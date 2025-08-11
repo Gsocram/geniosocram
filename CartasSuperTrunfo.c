@@ -49,7 +49,7 @@ printf("Carta2:\n");
 
 char Estado = 'g';
 char Codigo [20] = "G02";
-
+char nomedacidadE [20] = "Goiânia";
 
 
 
