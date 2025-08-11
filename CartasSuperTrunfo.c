@@ -52,6 +52,8 @@ char Codigo [20] = "G02";
 char nomedacidadE [20] = "Goiânia";
 int populacaO = 2563900;
 float Area = 160.70;
+float Pib = 729000000.0f;
+
 
 
 
