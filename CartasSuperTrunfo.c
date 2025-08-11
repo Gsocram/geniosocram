@@ -60,7 +60,7 @@ scanf("%c", &Estado);
 printf("O Estado é: %c\n", Estado);
 
 printf("Digite o Codigo:"):
-
+scanf("%s", Codigo);
 
 
 
