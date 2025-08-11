@@ -63,6 +63,8 @@ printf("Digite o Codigo:");
 scanf("%s", Codigo);
 printf("O Codigo é; %s\n", Codigo);
 
+printf("Digite o nome da Cidade:");
+
 
 
 
