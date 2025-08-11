@@ -72,7 +72,7 @@ scanf("%d", &populacaO);
 printf("O numero de População é: %d\n", populacaO);
 
 printf("Digite o Tamanho da Área:");
-
+scanf("%f", &Area );
 
 
 
