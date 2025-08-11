@@ -53,6 +53,7 @@ char nomedacidadE [20] = "Goiânia";
 int populacaO = 2563900;
 float Area = 160.70;
 float Pib = 729000000.0f;
+int numerodepontosTuristicos = 50;
 
 
 
