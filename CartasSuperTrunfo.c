@@ -57,6 +57,7 @@ int numerodepontosTuristicos = 50;
 
 printf("Digite o Estado:");
 scanf("%c", &Estado);
+printf("O Estado é: %c\n", Estado);
 
 
 
