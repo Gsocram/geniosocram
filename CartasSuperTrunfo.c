@@ -46,6 +46,15 @@ scanf("%d", &numerodepontosturisticos);
 printf("O Numero de Pontos Turisticos é: %d\n", numerodepontosturisticos);
 
 
+printf("Carta2:\n");
+
+char estado = 'G';
+char Codigo [20] = "G01";
+char nomedacidade [20] = "Goiânia";
+int Populacao = 3568900;
+float Area = 160.55;
+float Pib = 6390000000.0f;
+int Numerodepontosturisticos = 50;
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
