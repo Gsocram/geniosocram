@@ -39,7 +39,7 @@ printf("A Área é: %.2f km²\n", area);
 
 printf("Digite o PIB:");
 scanf("%f", &pib);
-printf("O PIB é: %f\n", pib);
+printf("O PIB é: %.2f Bilhões\n", pib);
 
 printf("Digite o Numero de Pontos Turisticos:");
 scanf("%d", &numerodepontosturisticos);
@@ -77,7 +77,7 @@ printf("A Área é: %.2f km²\n", Area);
 
 printf("Digite o PIB:");
 scanf("%f", &Pib);
-printf("O PIB é: %.2f", Pib);
+printf("O PIB é: %.2f Bilhões \n", Pib);
 
 printf("Digote o Numero de Pontos Turisticos");
 scanf("%d", &numerodepontosTuristicos);
