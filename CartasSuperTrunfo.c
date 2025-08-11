@@ -73,7 +73,10 @@ printf("O numero de População é: %d\n", populacaO);
 
 printf("Digite o Tamanho da Área:");
 scanf("%f", &Area );
-printf("A Área é: %.2f km²\n", Area);
+printf("A Área é: %.2f km²\n", Area); ]
+
+printf("Digite o PIB:");
+
 
 
 
