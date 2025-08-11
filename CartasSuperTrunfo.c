@@ -77,6 +77,7 @@ printf("A Área é: %.2f km²\n", Area);
 
 printf("Digite o PIB:");
 scanf("%f", &Pib);
+printf("O PIB é: %.2f", Pib);
 
 
 
