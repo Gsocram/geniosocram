@@ -43,6 +43,7 @@ printf("O PIB é: %f\n", pib);
 
 printf("Digite o Numero de Pontos Turisticos:");
 scanf("%d", &numerodepontosturisticos);
+printf("O Numero de Pontos Turisticos é: %d\n", numerodepontosturisticos);
 
 
 
