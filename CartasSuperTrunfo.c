@@ -48,6 +48,8 @@ printf("O Numero de Pontos Turisticos é: %d\n", numerodepontosturisticos);
 printf("Carta2:\n");
 
 char Estado = 'g';
+char Codigo [20] = "G02";
+
 
 
 
