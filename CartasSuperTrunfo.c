@@ -37,6 +37,10 @@ printf("Digite o Tamnho da Àrea:");
 scanf("%f", &area);
 printf("A Área é: %.2f km²\n", area);
 
+printf("Digite o PIB:");
+scanf("%f", &pib);
+
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
