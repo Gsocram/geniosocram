@@ -65,6 +65,7 @@ printf("O Codigo é; %s\n", Codigo);
 
 printf("Digite o nome da Cidade:");
 scanf("%s", nomedacidadE);
+printf("Nome da Cidade é: %s\n", nomedacidadE);
 
 
 
