@@ -79,6 +79,9 @@ printf("Digite o PIB:");
 scanf("%f", &Pib);
 printf("O PIB é: %.2f", Pib);
 
+printf("Digote o Numero de Pontos Turisticos");
+
+
 
 
 
