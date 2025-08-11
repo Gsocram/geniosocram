@@ -45,6 +45,7 @@ printf("Digite o Numero de Pontos Turisticos:");
 scanf("%d", &numerodepontosturisticos);
 printf("O Numero de Pontos Turisticos é: %d\n", numerodepontosturisticos);
 
+char estado = 'g';
 
 
  
