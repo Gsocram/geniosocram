@@ -55,6 +55,9 @@ float Area = 160.70;
 float Pib = 729000000.0f;
 int numerodepontosTuristicos = 50;
 
+printf("Digite o Estado:");
+
+
 
 
 
