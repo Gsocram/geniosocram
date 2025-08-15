@@ -16,6 +16,8 @@ int populacao = 2568900;
 float area = 150.75;
 float pib = 6290000000.0f;
 int numerodepontosturisticos = 100;
+float densidadePopulacional;
+float pibpercapita;
 
 printf("Digite o Estado:"); 
 scanf("%c", &Estado);
@@ -45,6 +47,11 @@ printf("Digite o Numero de Pontos Turisticos:");
 scanf("%d", &numerodepontosturisticos);
 printf("O Numero de Pontos Turisticos é: %d\n", numerodepontosturisticos);
 
+densidadePopulacional = (float) populacao / area;
+printf("A Densidade Populacional é: %f hab/km²\n", densidadePopulacional);
+ 
+
+
 printf("Carta2:\n");
 
 char estado = 'g';
@@ -54,10 +61,12 @@ int populacaO = 2563900;
 float Area = 160.70;
 float Pib = 729000000.0f;
 int numerodepontosTuristicos = 50;
+float densidadepopulacional ;
+float Pibpercapita ;
 
 printf("Digite o Estado:");
-scanf("%c", &estado);
-printf("O Estado é: %c\n", estado);
+ scanf("%c", &estado);
+printf("O Estado é:%c\n", estado);
 
 printf("Digite o Codigo:");
 scanf("%s", Codigo);
@@ -91,6 +100,6 @@ printf("O Numero de Pontos Turisticos é: %d\n", numerodepontosTuristicos);
 
 
  
-
+return 0;
 
 }
