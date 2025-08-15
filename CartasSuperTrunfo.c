@@ -93,7 +93,7 @@ densidadePopulacional = (float) populacaO / Area;
 printf("Densidade Populacional: %f hab/km²\n", densidadePopulacional);
 
 pibpercapita = Pib / populacaO;
-printf("PIB Per capita: %f Reais\n", populacaO);
+printf("PIB Per capita: %f Reais\n", pibpercapita);
 
 
 
