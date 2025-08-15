@@ -43,7 +43,14 @@ scanf("%d", &numerodepontosturisticos);
 printf("O Numero de Pontos Turisticos é: %d\n", numerodepontosturisticos);
 
 densidadePopulacional = (float) populacao / area;
-printf("A Densidade Populacional é: %f hab/km²\n", densidadePopulacional);
+printf("A Densidade Populacional : %f hab/km²\n", densidadePopulacional);
+
+pibpercapita = (float) pib / populacao;
+printf("O PIB Per Capita é: %f Reais\n", pibpercapita);
+
+
+printf("carta2:\n");
+
 char estado ='g';
 char Codigo[20] ="G02";
 char nomedacidadE [20] = "Goiânia";
@@ -54,7 +61,6 @@ int numerodepontosTuristicos = 50;
 float densidadepopulacional;
 float Pibpercapita;
 
-printf("carta2:\n");
 printf("Digite o Estado:");
 scanf(" %c", &estado);
 printf("O Estado é: %c\n",estado);
