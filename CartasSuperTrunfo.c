@@ -43,10 +43,10 @@ scanf("%d", &numerodepontosturisticos);
 printf("O Numero de Pontos Turisticos é: %d\n", numerodepontosturisticos);
 
 densidadePopulacional = (float) populacao / area;
-printf("A Densidade Populacional : %f hab/km²\n", densidadePopulacional);
+printf("A Densidade Populacional: %f hab/km²\n", densidadePopulacional);
 
 pibpercapita = (float) pib / populacao;
-printf("O PIB Per Capita é: %f Reais\n", pibpercapita);
+printf("PIB Per Capita é: %f Reais\n", pibpercapita);
 
 
 printf("carta2:\n");
@@ -90,7 +90,7 @@ scanf("%d", &numerodepontosTuristicos);
 printf("O Numero de Pontos Turisticos é: %d\n", numerodepontosTuristicos);
 
 densidadePopulacional = (float) Pib / populacaO;
-
+printf("A Densidade Populacional: %f hab/km²\n", densidadePopulacional");
 
 
 
